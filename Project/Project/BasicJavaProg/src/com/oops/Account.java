@@ -5,6 +5,8 @@ public class Account implements Account_No
 
 	int ANumber;
 	
+	int a;
+	
 	public Account(int number)
 	{
 		this.ANumber=number;
